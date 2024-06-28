@@ -1,2 +1,2 @@
 # Data-Manipulation_Py
-Data Manipulations, Vizualization and machine learning
+Data Manipulation, Vizualization and Machine Learning using python frameworks and free databases.
