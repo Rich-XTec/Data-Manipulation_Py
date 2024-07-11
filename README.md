@@ -1,4 +1,4 @@
-# Data-Manipulation_Py
+# Demostenes_Py
 This report describes a study carried out with data from procedural decisions, classified as "Granting" or "Denying", by the STJ. 
 
 Using a 2000 sample texts and 200 embeddings, the study used Scikit Learn and Keras in Python for analysis and modeling. 
